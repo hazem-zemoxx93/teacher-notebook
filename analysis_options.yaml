@@ -5,7 +5,3 @@ linter:
     - camel_case_types
     - camel_case_extensions
     - file_names
-    - library_names
-    - library_prefixes
-    - non_constant_identifier_names
-    - constant_identifier_names
