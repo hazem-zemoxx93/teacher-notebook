@@ -59,6 +59,7 @@ app.*.map.json
 **/ios/**/Pods/
 **/ios/**/.symlinks/
 **/ios/**/.DS_Store
+**/ios/**/build/
 **/ios/**/*.jks
 **/ios/**/*.keystore
 **/ios/**/*.mobileprovision
@@ -74,8 +75,3 @@ app.*.map.json
 **/ios/**/.gradle/
 **/ios/**/.idea/
 **/ios/**/local.properties
-
-# Generated files
-.dart_tool/
-.flutter-plugins
-.packages
